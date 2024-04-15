@@ -1,0 +1,11 @@
+div {
+   margin-top: 10px;
+   margin-right: 50px;
+   background-position: 20px;
+   background-color: blue;
+}
+
+p {
+  margin-right: 50px;
+  background-color: red;
+}
